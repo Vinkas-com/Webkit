@@ -20,7 +20,7 @@ Add this on your app folder's 'build.gradle' file
          compile 'com.vinkas:webkit-android:1.0.1'
   }
 ```
-#How to use
+#How we can use this 
 ###Java code
 ```
     @Override
